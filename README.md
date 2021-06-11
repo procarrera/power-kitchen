@@ -3,7 +3,7 @@
 
 - [x] Full Theme Customization
 - [x] Integration with App's as ReCharge (Subscripton), Zapiet and many others
-- [x] Development of new features, Subscription bundle, Stock control, Custm Reports
+- [x] Development of new features for Custom Meals, Meal Box Subscription Plan, Stock control, Custom Reports
 - [x] Sales Improvment with smart SEO strategy
 - [x] JQuery, Liquid (Shopify Language), Javascript, CSS and HTML  
 
